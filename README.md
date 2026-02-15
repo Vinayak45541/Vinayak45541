@@ -114,12 +114,12 @@ Architecture basics
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinayak45541&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vinayak45541&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=Vinayak45541&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak45541&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinayak45541&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -134,10 +134,9 @@ Architecture basics
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Vinayak45541/Vinayak45541/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Vinayak45541/Vinayak45541/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 ## 🤝 Connect
 
