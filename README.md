@@ -12,124 +12,49 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiastic;Full+Stack+%7C+AI%2FML+%7C+Core+CS;Problem+Solving+%7C+System+Thinking" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;AI%2FML+%7C+Full+Stack+%7C+Core+CS;Problem+Solving+%7C+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 Profile
 
-* Engineering student building practical software projects
-* Focused on problem solving, system understanding, and real-world implementation
-* Actively preparing for technical roles through projects + core CS
+* Software projects across web + AI
+* Strong focus on problem solving & system fundamentals
+* Preparing for technical roles through DSA + core CS
 
 ---
 
-## 🧠 Skill Landscape
+## 🧠 Skills
 
-<table align="center">
-<tr>
-<td align="center"><b>Programming</b></td>
-<td align="center"><b>Web & Software</b></td>
-<td align="center"><b>AI / ML</b></td>
-<td align="center"><b>Core CS</b></td>
-</tr>
+**Programming:**
+JavaScript • Python • Java • C++
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp" />
-</td>
+**Development:**
+React • Next.js • Node.js • Express • MongoDB
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb" />
-</td>
+**AI / ML:**
+TensorFlow • PyTorch • Model integration
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<br/>
-Model usage • Prompt systems • AI integrations
-</td>
-
-<td align="center">
-DSA  ,
-Operating Systems  ,
-DBMS  ,
-Computer Networks
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Work Areas
-
-<table align="center">
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 Software Projects
-
-Full-stack applications,
-User workflows,
-Deployable systems
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖 Intelligent Systems
-
-Chatbots,
-Skill analysis tools,
-AI-assisted applications
-
-</td>
-
-<td width="33%" align="center">
-
-### 🧱 Fundamentals
-
-Problem solving,
-System understanding,
-Architecture basics
-
-</td>
-
-</tr>
-</table>
+**Core CS:**
+DSA • OS • DBMS • Computer Networks
 
 ---
 
 ## 📈 Current Focus
 
-* Data Structures & Algorithms
-* Operating Systems, DBMS, Computer Networks
-* Software design thinking
-* Building end-to-end project systems
+DSA • Core CS • System design • End-to-end projects
 
 ---
 
-
-## 📊 GitHub Analytics
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vinayak45541&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Vinayak45541&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vinayak45541&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinayak45541&theme=tokyo-night&hide_border=true" />
-</p>
-
 
 ## 🤝 Connect
 
@@ -140,10 +65,4 @@ Architecture basics
   <a href="mailto:vinayakpattar980@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Consistent learning. Practical building.</i>
 </p>
