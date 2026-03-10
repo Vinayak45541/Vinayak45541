@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinayak%20Pattar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%7C%20Full%20Stack%20%7C%20ISE%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinayak%20Pattar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AIML%20%7C%20Full%20Stack%20%7C%20GenAI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -60,6 +60,5 @@ ISE student with a strong bias toward backend systems and full-stack development
 
 </div>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
