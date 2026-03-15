@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20,30,64&height=200&section=header&text=VINAYAK%20PATTAR&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineering&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,9,20,30,64&height=200&section=header&text=VINAYAK%20PATTAR&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+scalable+systems+🚀;Backend+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+AI+Engineering;DSA+%7C+System+Design+%7C+Core+CS" />
 
@@ -45,50 +45,55 @@ const vinayak = {
 
 ## 🚀 Skill Arsenal
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+<br>
 
-<br/><br/>
+<table>
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark&perline=5" />
+<tr>
+<td align="center"><b>💻 Languages</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td align="center"><b>🌐 Frontend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark"/>
+</td>
+</tr>
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark&perline=5" />
+<tr>
+<td align="center"><b>⚙ Backend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td align="center"><b>🗄 Databases</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark"/>
+</td>
+</tr>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark&perline=5" />
+<tr>
+<td align="center"><b>🤖 AI / ML</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface&theme=dark"/>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td align="center"><b>🛠 Tools</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark"/>
+</td>
+</tr>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&theme=dark&perline=5" />
-
-<br/>
-
-### 🤖 ML / AI
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=5" />
-<br/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/BERT-NLP-5C6BC0?style=flat-square"/>
-
-<br/>
-
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark&perline=6" />
+</table>
 
 </div>
-
----
-
-<div align="center">
 
 ## 📊 GitHub Analytics
 
